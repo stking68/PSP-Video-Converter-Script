@@ -1,3 +1,3 @@
 # PSP-Video-Script
-Script to Convert Video to format for the PSP
+Script to Convert Video format to PSP Video
 Requires FFMPEG
